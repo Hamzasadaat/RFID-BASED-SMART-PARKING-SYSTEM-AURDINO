@@ -2,14 +2,23 @@
 
 For Proper Working of system Visit https://youtube.com/shorts/WualsZcqnBk
 
-![IMG-20220919-WA0006](https://user-images.githubusercontent.com/76808385/191520421-1ff7f2ec-b7ad-43b9-a545-20a7a3bdeb68.jpg)
-
-![IMG-20220919-WA0007](https://user-images.githubusercontent.com/76808385/191520494-5c04b1cc-fee1-4cb5-af91-14c9748c800d.jpg)
-
-
-The main objective is to avoid the cramming in the car parking area by implementing an efficient car parking system along with a user-friendly application for an ease of use. Today, parking is the main coordinator between the land use and transportation. As the urban population is increasing, more and more cars are circulating through the city in search for parking spaces, often contributing to the global problem of traffic congestion.
+I would like to thank Mr. Fazli Wahid who is my supervisor in this project. He was there to guide me for the project and keep me on the right track which was very important for me to be focused on my project.
 
 ![image](https://user-images.githubusercontent.com/76808385/191502571-abe55386-7520-408e-965f-7108cdca7002.png)
+
+
+# DEDICATION:
+
+I dedicate this project to God Almighty my creator, my strong pillar, my source of inspiration, wisdom, knowledge and understanding. He has been the source of my strength throughout this program and on His wings only have I soared.
+Secondly, I have to thank my supervisor, Dr. Fazli Wahid. Without his assistance
+and dedicated involvement in every step throughout the process, this paper would have never been accomplished.
+I also dedicate this work to my Parents; who never stop giving of themselves in countless ways who have never failed to give us financial and moral support, for giving all our needs during the time we developed our system and for teaching us that even the largest task can be accomplished if it is done one step as a time. I dedicate this to my parents, for their constant love and support.
+Also, I would like to dedicate this project to my dear Uncle, Wasif Hussain who has been a wonderful supporter until my Project was completed.
+
+# OBJECTIVES
+The main objective is to avoid the cramming in the car parking area by implementing an efficient car parking system along with a user-friendly application for an ease of use. Today, parking is the main coordinator between the land use and transportation. As the urban population is increasing, more and more cars are circulating through the city in search for parking spaces, often contributing to the global problem of traffic congestion.
+
+
 
 # Figure 1.1:Project Block Diagram
 
@@ -90,4 +99,6 @@ IDE's can be used to create software applications, drivers and utilities. It all
 
 ![image](https://user-images.githubusercontent.com/76808385/191503821-2423e381-f227-4e7b-8eba-efcff9a05e9a.png)
 
+![IMG-20220919-WA0006](https://user-images.githubusercontent.com/76808385/191520421-1ff7f2ec-b7ad-43b9-a545-20a7a3bdeb68.jpg)
 
+![IMG-20220919-WA0007](https://user-images.githubusercontent.com/76808385/191520494-5c04b1cc-fee1-4cb5-af91-14c9748c800d.jpg)
