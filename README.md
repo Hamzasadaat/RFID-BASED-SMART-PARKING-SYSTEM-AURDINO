@@ -10,7 +10,8 @@ The main objective is to avoid the cramming in the car parking area by implement
 
 ![image](https://user-images.githubusercontent.com/76808385/191502692-dc873220-a47a-460d-a3ff-e474e01df613.png)
 
-Figure 1.2: Logic of Project Block Diagram
+# Figure 1.2: Logic of Project Block Diagram
+
 ![image](https://user-images.githubusercontent.com/76808385/191502733-dcfb4cc2-4820-441f-9016-e55e3e13a984.png)
 
 # Hardware Requirements:
@@ -48,7 +49,7 @@ A slender plastic board used to hold electronic parts (semiconductors, resistors
 
 3.5.6 Arduino UNO
 The Arduino UNO is the best board to begin with gadgets and coding. Arduino UNO is a microcontroller board in view of the ATmega328P. It has 14 computerized input/yield pins (of which 6 can be utilized as PWM yields), 6 simple sources of info, a 16 MHz clay resonator, a USB association, a power jack, an ICSP header and a reset button.
-Figure 3.10: 
+# Figure 3.10: 
 ![image](https://user-images.githubusercontent.com/76808385/191503466-a303039e-e9c5-403a-8fe0-a0d4791d9b93.png)
 
 # Arduino UNO.
@@ -58,7 +59,7 @@ It consists of three parts:
 • Controlled device
 • Output sensor
 • Feedback system
-Figure 3.11:
+# Figure 3.11:
 ![image](https://user-images.githubusercontent.com/76808385/191503488-99b2638f-9359-429f-872e-bb8d70fbced9.png)
 Servo engine
 
