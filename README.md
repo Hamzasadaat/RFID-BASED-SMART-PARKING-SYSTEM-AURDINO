@@ -2,6 +2,11 @@
 
 For Proper Working of system Visit https://youtube.com/shorts/WualsZcqnBk
 
+![IMG-20220919-WA0006](https://user-images.githubusercontent.com/76808385/191520421-1ff7f2ec-b7ad-43b9-a545-20a7a3bdeb68.jpg)
+
+![IMG-20220919-WA0007](https://user-images.githubusercontent.com/76808385/191520494-5c04b1cc-fee1-4cb5-af91-14c9748c800d.jpg)
+
+
 The main objective is to avoid the cramming in the car parking area by implementing an efficient car parking system along with a user-friendly application for an ease of use. Today, parking is the main coordinator between the land use and transportation. As the urban population is increasing, more and more cars are circulating through the city in search for parking spaces, often contributing to the global problem of traffic congestion.
 
 ![image](https://user-images.githubusercontent.com/76808385/191502571-abe55386-7520-408e-965f-7108cdca7002.png)
@@ -82,6 +87,7 @@ IDE's can be used to create software applications, drivers and utilities. It all
 
 # 3.8.2 Assembled System:
 ![image](https://user-images.githubusercontent.com/76808385/191503660-cc0daa65-85c3-4f04-b934-1ab0f19f32ab.png)
-![image](https://user-images.githubusercontent.com/76808385/191503792-1bd92166-8d3e-42ab-9256-1f8a72de4e5b.png)
+
 ![image](https://user-images.githubusercontent.com/76808385/191503821-2423e381-f227-4e7b-8eba-efcff9a05e9a.png)
+
 
