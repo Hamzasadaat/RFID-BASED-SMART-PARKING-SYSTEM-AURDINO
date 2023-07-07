@@ -1,6 +1,7 @@
 # RFID-BASED-SMART-PARKING-SYSTEM-AURDINO
 
 Find My Publication on Reserchgate: https://www.researchgate.net/publication/369010600_RFID_Based_Smart_Parking
+
 I would like to thank Mr. Fazli Wahid who is my supervisor in this project. He was there to guide me for the project and keep me on the right track which was very important for me to be focused on my project.
 
 ![image](https://user-images.githubusercontent.com/76808385/191502571-abe55386-7520-408e-965f-7108cdca7002.png)
